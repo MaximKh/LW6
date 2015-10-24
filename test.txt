@@ -1,0 +1,7 @@
+# some python code
+import logging
+def f(s)
+    logging.info(‘f is called’)
+    print s
+# calling f
+f(‘test’)
